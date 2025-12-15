@@ -1,4 +1,4 @@
-# mi-primera-pagina
+# Tarea 1: mi-primera-pagina
 
 ##  Temas vistos en clase
 
@@ -60,3 +60,13 @@ Finalmente, al crear esta página con **GitHub Pages**, entendí cómo los progr
 
 ## Enlace de conversación con IA:
 https://chatgpt.com/share/69116e3f-438c-8013-ba8d-a06763077525 
+
+# Tarea 2: Mini-Turtle"
+Su propósito era ir avanzando poco a poco en la simulación del movimiento en forma de escalera de una Tortuga a través de funciones que pudieran generan interacciones con el usuario a través de una interfaz.
+
+# Tarea 3: Mini-Turtle"
+En esta actividad la intención era llevar a un nivel superior la actividad anterior. En esta oportunidad, se puso en práctica la creación de una clase llamada Tortuga, con la intención de hacer más reutilizables las funciones que se encargan de simular el movimiento de una tortuga y así poder tener una sensación más cercana de estar usando una librería Real.
+
+Los enlaces de los repositorios de la actividad son:
+Repositorio 1: https://github.com/Jhonny1293/mini_turtle_task
+Repositorio 2: https://github.com/Jhonny1293/mini_turtle_oo_task
