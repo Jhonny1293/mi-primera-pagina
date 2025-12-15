@@ -61,7 +61,7 @@ Finalmente, al crear esta página con **GitHub Pages**, entendí cómo los progr
 ## Enlace de conversación con IA:
 https://chatgpt.com/share/69116e3f-438c-8013-ba8d-a06763077525 
 
-# Tarea 2: Mini-Turtle"
+# Tarea 2: Solución de retos en sección "Para practicar""
 Su propósito era ir avanzando poco a poco en la simulación del movimiento en forma de escalera de una Tortuga a través de funciones que pudieran generan interacciones con el usuario a través de una interfaz.
 
 # Tarea 3: Mini-Turtle"
